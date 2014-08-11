@@ -1,0 +1,29 @@
+/* Css */
+html{
+	font-family: Arial;
+}
+body{
+	background: url("../media/color1.jpg") repeat;
+	overflow-x: hidden;
+	overflow-y: hidden;
+
+}
+
+#canvas{
+	background: #fff;
+	border: 3px #333 solid;
+	background-image: url("../media/cuadricula.png");
+}
+
+#log{
+	width: 300px;
+	height: 200px; 
+	border: 1px black solid;
+}
+
+.canvas-container{
+	width: 99%;
+	/*border: 1px black solid;*/
+	text-align: center;
+}
+
